@@ -10,4 +10,4 @@ The result printed by the counter should have the following form:
 "bus": 96 occurrences "car": 72 occurrences "plane": 23 occurrences "thisistheend": 1 occurrences "train": 48 occurrences
 
 
-### Technologies: Erlang
+### Technologies used: Erlang
